@@ -1,6 +1,42 @@
 [{
+    "id": 1,
     "name": "Test",
     "designation": "MANAGER",
     "department": "CIVIL",
+    "contact": "9999888888"
+},
+{
+    "id": 2,
+    "name": "Test",
+    "designation": "MANAGER",
+    "department": "LANDSCAPE",
+    "contact": "9999888888"
+},
+{
+    "id": 3,
+    "name": "Test",
+    "designation": "MANAGER",
+    "department": "AIR_CONDITION",
+    "contact": "9999888888"
+},
+{
+    "id": 4,
+    "name": "Test",
+    "designation": "MANAGER",
+    "department": "WOOD",
+    "contact": "9999888888"
+},
+{
+    "id": 5,
+    "name": "Test",
+    "designation": "MANAGER",
+    "department": "MEP",
+    "contact": "9999888888"
+},
+{
+    "id": 6,
+    "name": "Test",
+    "designation": "MANAGER",
+    "department": "MISCELLANEOUS",
     "contact": "9999888888"
 }]
