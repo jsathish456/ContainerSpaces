@@ -1,42 +1,65 @@
 [{
     "id": 1,
-    "name": "Test",
-    "designation": "MANAGER",
     "department": "CIVIL",
-    "contact": "9999888881"
+    "data": [{
+        "id": 1,
+        "name": "Test",
+        "designation": "MANAGER",
+        "contact_no: "9999888881"
+    },{
+        "id": 2,
+        "name": "Test2",
+        "designation": "SUPERVISOR",
+        "contact_no: "9999888881-1"
+    }]
 },
 {
     "id": 2,
-    "name": "Test",
-    "designation": "MANAGER",
     "department": "LANDSCAPE",
-    "contact": "9999888882"
+    "data": [{
+        "id": 1,
+        "name": "Test",
+        "designation": "MANAGER",
+        "contact_no: "9999888882"
+    }]
 },
 {
     "id": 3,
-    "name": "Test",
-    "designation": "MANAGER",
     "department": "AIR_CONDITION",
-    "contact": "9999888883"
+    "data": [{
+        "id": 1,
+        "name": "Test",
+        "designation": "MANAGER",
+        "contact_no: "9999888883"
+    }]
 },
 {
     "id": 4,
-    "name": "Test",
-    "designation": "MANAGER",
     "department": "WOOD",
-    "contact": "9999888884"
+    "data": [{
+        "id": 1,
+        "name": "Test",
+        "designation": "MANAGER",
+        "contact_no: "9999888884"
+    }]
 },
 {
     "id": 5,
-    "name": "Test",
-    "designation": "MANAGER",
     "department": "MEP",
-    "contact": "99998888855"
+    "data": [{
+        "id": 1,
+        "name": "Test",
+        "designation": "MANAGER",
+        "contact_no: "9999888885"
+    }]
 },
 {
     "id": 6,
-    "name": "Test",
-    "designation": "MANAGER",
     "department": "MISCELLANEOUS",
-    "contact": "9999888886"
+    "data": [{
+        "id": 1,
+        "name": "Test",
+        "designation": "MANAGER",
+        "contact_no: "9999888886"
+    }]
 }]
