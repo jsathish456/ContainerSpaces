@@ -5,12 +5,12 @@
         "id": 1,
         "name": "Test",
         "designation": "MANAGER",
-        "contact_no: "9999888881"
+        "contact_no": "9999888881"
     },{
         "id": 2,
         "name": "Test2",
         "designation": "SUPERVISOR",
-        "contact_no: "9999888881-1"
+        "contact_no": "9999888881-1"
     }]
 },
 {
@@ -20,7 +20,7 @@
         "id": 1,
         "name": "Test",
         "designation": "MANAGER",
-        "contact_no: "9999888882"
+        "contact_no": "9999888882"
     }]
 },
 {
@@ -30,7 +30,7 @@
         "id": 1,
         "name": "Test",
         "designation": "MANAGER",
-        "contact_no: "9999888883"
+        "contact_no": "9999888883"
     }]
 },
 {
@@ -40,7 +40,7 @@
         "id": 1,
         "name": "Test",
         "designation": "MANAGER",
-        "contact_no: "9999888884"
+        "contact_no": "9999888884"
     }]
 },
 {
@@ -50,7 +50,7 @@
         "id": 1,
         "name": "Test",
         "designation": "MANAGER",
-        "contact_no: "9999888885"
+        "contact_no": "9999888885"
     }]
 },
 {
@@ -60,6 +60,6 @@
         "id": 1,
         "name": "Test",
         "designation": "MANAGER",
-        "contact_no: "9999888886"
+        "contact_no": "9999888886"
     }]
 }]
